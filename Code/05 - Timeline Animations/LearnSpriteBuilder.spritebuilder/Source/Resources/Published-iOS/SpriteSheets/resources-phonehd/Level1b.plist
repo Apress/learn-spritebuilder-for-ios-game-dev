@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>SpriteSheets/Level1b/level1_foreground_top1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{415, 717}, {934, 252}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {934, 252}}</string>
+			<key>sourceSize</key>
+			<string>{934, 252}</string>
+		</dict>
+		<key>SpriteSheets/Level1b/level1_foreground_top2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {1400, 334}}</string>
+			<key>offset</key>
+			<string>{4, 2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{14, 0}, {1400, 334}}</string>
+			<key>sourceSize</key>
+			<string>{1420, 339}</string>
+		</dict>
+		<key>SpriteSheets/Level1b/level1_foreground_top3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 337}, {1354, 378}}</string>
+			<key>offset</key>
+			<string>{0, 2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{28, 6}, {1354, 378}}</string>
+			<key>sourceSize</key>
+			<string>{1411, 395}</string>
+		</dict>
+		<key>SpriteSheets/Level1b/level1_foreground_top4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 737}, {987, 412}}</string>
+			<key>offset</key>
+			<string>{0, 13}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {987, 412}}</string>
+			<key>sourceSize</key>
+			<string>{987, 439}</string>
+		</dict>
+		<key>SpriteSheets/Level1b/level1_foreground_top5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1726}, {270, 264}}</string>
+			<key>offset</key>
+			<string>{1, 6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{18, 0}, {270, 264}}</string>
+			<key>sourceSize</key>
+			<string>{305, 277}</string>
+		</dict>
+		<key>SpriteSheets/Level1b/level1_foreground_top6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1403, 1}, {734, 430}}</string>
+			<key>offset</key>
+			<string>{0, 10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {734, 430}}</string>
+			<key>sourceSize</key>
+			<string>{734, 450}</string>
+		</dict>
+		<key>SpriteSheets/Level1b/level1_foreground_top7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1351, 737}, {682, 430}}</string>
+			<key>offset</key>
+			<string>{4, 20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{7, 0}, {682, 430}}</string>
+			<key>sourceSize</key>
+			<string>{689, 470}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>textureFileName</key>
+		<string>Level1b.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

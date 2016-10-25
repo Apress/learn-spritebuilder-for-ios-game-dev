@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C151F119-BAA1-40BF-A707-9F185F37E145</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LearnSpriteBuilder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1C34545490E4447CF289EFCB811FA0B42AC84B45</key>
+		<string>ssh://github.com/LearnCocos2D/sbcc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Final Book Projects/Chapter 02/LearnSpriteBuilder.spritebuilder/LearnSpriteBuilder.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1C34545490E4447CF289EFCB811FA0B42AC84B45</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/LearnCocos2D/sbcc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1C34545490E4447CF289EFCB811FA0B42AC84B45</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1C34545490E4447CF289EFCB811FA0B42AC84B45</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sbbookprojects</string>
+		</dict>
+	</array>
+</dict>
+</plist>

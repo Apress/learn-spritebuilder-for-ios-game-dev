@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>SpriteSheets/Level1a/level1_background2_burger.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{583, 1755}, {340, 288}}</string>
+			<key>offset</key>
+			<string>{3, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{13, 22}, {340, 288}}</string>
+			<key>sourceSize</key>
+			<string>{360, 329}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_background2_fries.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{884, 611}, {304, 396}}</string>
+			<key>offset</key>
+			<string>{12, -10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{90, 92}, {304, 396}}</string>
+			<key>sourceSize</key>
+			<string>{461, 561}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_background2_ground.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 611}, {418, 417}}</string>
+			<key>offset</key>
+			<string>{8, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 0}, {418, 417}}</string>
+			<key>sourceSize</key>
+			<string>{434, 417}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_background2_icecream.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1805, 1031}, {236, 452}}</string>
+			<key>offset</key>
+			<string>{-3, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 11}, {236, 452}}</string>
+			<key>sourceSize</key>
+			<string>{251, 472}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_background3_ground1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1423, 1126}, {380, 232}}</string>
+			<key>offset</key>
+			<string>{-2, -14}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{34, 27}, {380, 232}}</string>
+			<key>sourceSize</key>
+			<string>{452, 259}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_background3_ground2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1423, 611}, {380, 259}}</string>
+			<key>offset</key>
+			<string>{-6, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{30, 0}, {380, 259}}</string>
+			<key>sourceSize</key>
+			<string>{452, 259}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_background3_ground3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1423, 872}, {380, 252}}</string>
+			<key>offset</key>
+			<string>{-2, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{34, 7}, {380, 252}}</string>
+			<key>sourceSize</key>
+			<string>{452, 259}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_background3_ground4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1423, 1360}, {378, 218}}</string>
+			<key>offset</key>
+			<string>{0, -17}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 34}, {378, 218}}</string>
+			<key>sourceSize</key>
+			<string>{379, 252}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_background3_top1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{233, 1755}, {348, 292}}</string>
+			<key>offset</key>
+			<string>{-1, 1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 0}, {348, 292}}</string>
+			<key>sourceSize</key>
+			<string>{383, 294}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_background3_top2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1423, 1580}, {440, 122}}</string>
+			<key>offset</key>
+			<string>{-5, 7}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{15, 0}, {440, 122}}</string>
+			<key>sourceSize</key>
+			<string>{481, 136}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_background3_top3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1190, 611}, {558, 226}}</string>
+			<key>offset</key>
+			<string>{-6, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{9, 0}, {558, 226}}</string>
+			<key>sourceSize</key>
+			<string>{588, 233}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_background3_top4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1833, 87}, {942, 150}}</string>
+			<key>offset</key>
+			<string>{-6, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{11, 0}, {942, 150}}</string>
+			<key>sourceSize</key>
+			<string>{976, 157}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_background3_waffle.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{420, 611}, {462, 396}}</string>
+			<key>offset</key>
+			<string>{12, 6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{24, 12}, {462, 396}}</string>
+			<key>sourceSize</key>
+			<string>{486, 433}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_background_cookie.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1833, 1}, {204, 84}}</string>
+			<key>offset</key>
+			<string>{-1, 3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 22}, {204, 84}}</string>
+			<key>sourceSize</key>
+			<string>{239, 134}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_foreground_doughnut.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{925, 1697}, {286, 496}}</string>
+			<key>offset</key>
+			<string>{-2, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{12, 23}, {286, 496}}</string>
+			<key>sourceSize</key>
+			<string>{315, 539}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_foreground_g1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{233, 1031}, {722, 542}}</string>
+			<key>offset</key>
+			<string>{-2, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 14}, {722, 542}}</string>
+			<key>sourceSize</key>
+			<string>{743, 567}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_foreground_g2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{777, 1031}, {664, 316}}</string>
+			<key>offset</key>
+			<string>{-4, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{5, 22}, {664, 316}}</string>
+			<key>sourceSize</key>
+			<string>{682, 352}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_foreground_g3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1031}, {894, 230}}</string>
+			<key>offset</key>
+			<string>{-3, 6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 10}, {894, 230}}</string>
+			<key>sourceSize</key>
+			<string>{941, 263}</string>
+		</dict>
+		<key>SpriteSheets/Level1a/level1_foreground_g4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {1830, 608}}</string>
+			<key>offset</key>
+			<string>{-10, -37}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{9, 100}, {1830, 608}}</string>
+			<key>sourceSize</key>
+			<string>{1868, 734}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>textureFileName</key>
+		<string>Level1a.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

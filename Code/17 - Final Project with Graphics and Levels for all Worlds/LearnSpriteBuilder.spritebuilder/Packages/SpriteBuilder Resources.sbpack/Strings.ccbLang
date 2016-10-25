@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLanguages</key>
+	<array>
+		<string>en</string>
+		<string>de</string>
+	</array>
+	<key>fileType</key>
+	<string>SpriteBuilderTranslations</string>
+	<key>fileVersion</key>
+	<integer>1</integer>
+	<key>translations</key>
+	<array>
+		<dict>
+			<key>comment</key>
+			<string></string>
+			<key>key</key>
+			<string>CREDITS_LABEL</string>
+			<key>translations</key>
+			<dict>
+				<key>de</key>
+				<string>Entwickelt mit SpriteBuilder &amp; Cocos2D</string>
+				<key>en</key>
+				<string>Made with SpriteBuilder &amp; Cocos2D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>PLAY</string>
+			<key>translations</key>
+			<dict>
+				<key>de</key>
+				<string>SPIEL</string>
+				<key>en</key>
+				<string>PLAY</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>SETTINGS</string>
+			<key>translations</key>
+			<dict>
+				<key>de</key>
+				<string>Einstell.</string>
+				<key>en</key>
+				<string>Settings</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Hits: %i</string>
+			<key>translations</key>
+			<dict>
+				<key>de</key>
+				<string>Treffer: %i</string>
+				<key>en</key>
+				<string>Hits: %i</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Touch to Move</string>
+			<key>translations</key>
+			<dict>
+				<key>de</key>
+				<string>Zum Bewegen berühren</string>
+				<key>en</key>
+				<string>Touch to Move</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Gluttony</string>
+			<key>translations</key>
+			<dict>
+				<key>de</key>
+				<string>Völlerei</string>
+				<key>en</key>
+				<string>Gluttony</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Greed</string>
+			<key>translations</key>
+			<dict>
+				<key>de</key>
+				<string>Habgier</string>
+				<key>en</key>
+				<string>Greed</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Lust</string>
+			<key>translations</key>
+			<dict>
+				<key>de</key>
+				<string>Wollust</string>
+				<key>en</key>
+				<string>Lust</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

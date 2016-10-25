@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>SpriteSheets/Global/player.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1331, 421}, {244, 256}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{5, 0}, {244, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>SpriteSheets/Global/playereyes1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1599, 1}, {374, 290}}</string>
+			<key>offset</key>
+			<string>{35, 42}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{114, 79}, {374, 290}}</string>
+			<key>sourceSize</key>
+			<string>{533, 533}</string>
+		</dict>
+		<key>SpriteSheets/Global/playereyes2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1599, 293}, {374, 290}}</string>
+			<key>offset</key>
+			<string>{35, 42}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{114, 79}, {374, 290}}</string>
+			<key>sourceSize</key>
+			<string>{533, 533}</string>
+		</dict>
+		<key>SpriteSheets/Global/playereyes3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1589, 585}, {374, 290}}</string>
+			<key>offset</key>
+			<string>{35, 42}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{114, 79}, {374, 290}}</string>
+			<key>sourceSize</key>
+			<string>{533, 533}</string>
+		</dict>
+		<key>SpriteSheets/Global/playerface.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1067, 1}, {530, 418}}</string>
+			<key>offset</key>
+			<string>{2, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 79}, {530, 418}}</string>
+			<key>sourceSize</key>
+			<string>{533, 533}</string>
+		</dict>
+		<key>SpriteSheets/Global/playerfaceless.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {980, 1064}}</string>
+			<key>offset</key>
+			<string>{-19, 1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{24, 0}, {980, 1064}}</string>
+			<key>sourceSize</key>
+			<string>{1067, 1067}</string>
+		</dict>
+		<key>SpriteSheets/Global/playermouth.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1067, 421}, {530, 262}}</string>
+			<key>offset</key>
+			<string>{2, -100}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{3, 235}, {530, 262}}</string>
+			<key>sourceSize</key>
+			<string>{533, 533}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 1024}</string>
+		<key>textureFileName</key>
+		<string>Global.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

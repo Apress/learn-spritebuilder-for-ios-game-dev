@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filenames</key>
+	<dict>
+		<key>Sprites/Level1/level1_background_Cerberus.png</key>
+		<string>Sprites/Level1/level1_background_Cerberus.pvr.ccz</string>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>
